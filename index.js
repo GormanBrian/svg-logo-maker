@@ -1,3 +1,3 @@
-import CLI from "./lib/cli";
+import CLI from "./lib/cli.js";
 
 new CLI().run();

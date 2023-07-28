@@ -1,7 +1,0 @@
-<svg version="1.1" style="background-color:black;" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-
-  <polygon points="150,50 92.25,150 207.75,150" fill="gray" />
-  
-  <text x="200" y="100" font-size="40" dominant-baseline="middle" text-anchor="middle" fill="tomato">SVG</text>
-
-</svg>
