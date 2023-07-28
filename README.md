@@ -22,6 +22,8 @@ npm i
 
 ## Usage
 
+[Live preview](https://drive.google.com/file/d/1rLHyI6UyR1_ehjd3aTWZoRKNBsLQsiNZ/view)
+
 ```console
 node index.js
 ```
